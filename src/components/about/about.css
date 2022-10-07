@@ -33,7 +33,7 @@
   text-align: center;
   transition: var(--transition);
 }
-.about__cards:hover {
+.about__card:hover {
   background: transparent;
   border-color: var(--color-primary-variant);
   cursor: default;
