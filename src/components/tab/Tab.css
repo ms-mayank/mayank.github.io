@@ -1,0 +1,23 @@
+.tab-head {
+  display: flex;
+  gap: 0.5rem;
+}
+.content {
+  border-radius: 0.5rem;
+  background: transparent;
+  border: 2px solid var(--color-primary-variant);
+  resize: none;
+  display: none;
+}
+.content h2:hover {
+  color: var(--color-white);
+}
+.content h2 {
+  background: var(--color-primary);
+  text-align: center;
+  color: black;
+  border-radius: 0.5rem;
+}
+.content-active {
+  display: block;
+}

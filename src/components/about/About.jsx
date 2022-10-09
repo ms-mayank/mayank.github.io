@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/442.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -26,15 +26,15 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>20+ Worldwide</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>40+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio optio facere ullam porro consectetur quibusdam sequi! Nihil aliquid cum perspiciatis unde reiciendis voluptatibus doloremque quia reprehenderit nobis necessitatibus. Quisquam, laudantium!</p>
+          <p>2+ years of relevant experience in Web Development. Delivered 40+ sites to globally distributed clients. Documented various processes & strategies. Trained, guided, managed, and lead a team of young professionals. Process improvement through automation, finding optimal solutions, and better management of Time & Resources.</p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
           </a>

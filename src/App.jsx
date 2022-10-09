@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import Header from "./components/header/Header";
 import Nav from "./components/nav/Nav";
 import About from "./components/about/About";
@@ -8,6 +8,7 @@ import Portfolio from "./components/portfolio/Portfolio";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
+import Tab from "./components/tab/Tab";
 
 const App = () => {
   return (
@@ -16,9 +17,10 @@ const App = () => {
       <Nav />
       <About />
       <Experience />
-      <Services />
+      {/* <Services /> */}
       <Portfolio />
-      <Testimonials />
+      {/* <Tab /> */}
+      {/* <Testimonials /> */}
       <Contact />
       <Footer />
     </>

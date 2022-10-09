@@ -37,19 +37,19 @@ const Contact = () => {
               Send a Message
             </a>
           </article>
-          <article className="contact__option">
+          {/* <article className="contact__option">
             <AiOutlineMessage className="contact__option-icon" />
             <h4>Messenger</h4>
             <h5>Facebook</h5>
             <a href="mailto:msmayanak555@gmail.com" target="_blank">
               Send a Message
             </a>
-          </article>
+          </article> */}
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>Whatsapp</h4>
-            <h5>Whatsapp ph no</h5>
-            <a href="https://apli.whatsapp.com?phone=+917309261819" target="_blank">
+            <h5>+91 7309261819</h5>
+            <a href="https://api.whatsapp.com?phone=+917309261819" target="_blank">
               Send a Message
             </a>
           </article>

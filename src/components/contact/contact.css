@@ -14,7 +14,7 @@
   padding: 1.2rem;
   border-radius: 1.2rem;
   text-align: center;
-  border: 1ps solid transparent;
+  border: 1px solid transparent;
   transition: var(--transition);
 }
 .contact__option:hover {

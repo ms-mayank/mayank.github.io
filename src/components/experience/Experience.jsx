@@ -65,13 +65,13 @@ const Experience = () => {
                 <small className="text-light">Experienced</small>
               </div>
             </article>
-            <article className="experience__details">
+            {/* <article className="experience__details">
               <BsPatchCheckFill className="experience-details-icon" />
               <div>
                 <h4>PHP</h4>
                 <small className="text-light">Intermediate</small>
               </div>
-            </article>
+            </article> */}
             <article className="experience__details">
               <BsPatchCheckFill className="experience-details-icon" />
               <div>
@@ -90,13 +90,6 @@ const Experience = () => {
               <BsPatchCheckFill className="experience-details-icon" />
               <div>
                 <h4>MongoDB</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience-details-icon" />
-              <div>
-                <h4>React</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
