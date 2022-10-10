@@ -1,17 +1,18 @@
 import React from "react";
 import "./portfolio.css";
 import Tab from "../tab/Tab";
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG1 from "../../assets/p1.jpg";
+import IMG2 from "../../assets/p2.jpg";
+import IMG3 from "../../assets/p3.jpg";
+import IMG4 from "../../assets/p4.jpg";
+import IMG5 from "../../assets/p5.jpg";
+import IMG6 from "../../assets/p6.jpg";
+import IMG7 from "../../assets/p7.jpg";
 
 const data = [
   {
     id: 1,
-    image: IMG1,
+    image: IMG2,
     title: "React Daily Planner",
     type: "react",
     github: "https://github.com/msmayank555/ReactJs-Daily-Planner",
@@ -19,7 +20,7 @@ const data = [
   },
   {
     id: 2,
-    image: IMG2,
+    image: IMG5,
     title: "React Portfolio Site",
     type: "react",
     github: "https://github.com/msmayank555",
@@ -27,7 +28,7 @@ const data = [
   },
   {
     id: 3,
-    image: IMG3,
+    image: IMG2,
     title: "Toastmaster Timer",
     type: "javascript",
     github: "https://github.com/msmayank555/Javascript/tree/master/Toastmasters-timer",
@@ -43,7 +44,7 @@ const data = [
   },
   {
     id: 5,
-    image: IMG4,
+    image: IMG5,
     title: "Daily Notes",
     type: "javascript",
     github: "https://github.com/msmayank555/Javascript/tree/master/Project%20-%20Daily%20notes",
@@ -51,7 +52,7 @@ const data = [
   },
   {
     id: 6,
-    image: IMG4,
+    image: IMG6,
     title: "Javascript Calculator",
     type: "javascript",
     github: "https://github.com/msmayank555/Javascript/tree/master/JS%20calculator",
@@ -59,7 +60,7 @@ const data = [
   },
   {
     id: 7,
-    image: IMG5,
+    image: IMG1,
     title: "E-billing Governing Fraud Detection ",
     type: "python",
     github: "https://github.com/msmayank555/E-billing_governing_fraud_detection",
@@ -75,7 +76,7 @@ const data = [
   },
   {
     id: 9,
-    image: IMG6,
+    image: IMG7,
     title: "Automated Finding-404-Link-error Using Python",
     type: "python",
     github: "https://github.com/msmayank555/Finding-Link-error-404",
