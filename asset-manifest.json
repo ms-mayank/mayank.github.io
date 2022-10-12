@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e9317b4.css",
-    "main.js": "/static/js/main.9363719e.js",
+    "main.css": "/static/css/main.428fd50a.css",
+    "main.js": "/static/js/main.0b595818.js",
     "static/media/442.png": "/static/media/442.2603a5e3314a6d3abe96.png",
-    "static/media/resume.pdf": "/static/media/resume.e67b030be53d2aa67f4d.pdf",
+    "static/media/Resume Mayank Shukla (msmayank555@gmail.com).pdf": "/static/media/Resume Mayank Shukla (msmayank555@gmail.com).15e25405e9ff457ac4f0.pdf",
     "static/media/4.png": "/static/media/4.ba782d703aae12335373.png",
     "static/media/p4.jpg": "/static/media/p4.1e82db4c667d301e5240.jpg",
     "static/media/p1.jpg": "/static/media/p1.e5897137bae285dccc8b.jpg",
@@ -13,11 +13,11 @@
     "static/media/p5.jpg": "/static/media/p5.eeb68fdd24085c7f0b7f.jpg",
     "static/media/p3.jpg": "/static/media/p3.24cbf357b694af2fd4ed.jpg",
     "index.html": "/index.html",
-    "main.0e9317b4.css.map": "/static/css/main.0e9317b4.css.map",
-    "main.9363719e.js.map": "/static/js/main.9363719e.js.map"
+    "main.428fd50a.css.map": "/static/css/main.428fd50a.css.map",
+    "main.0b595818.js.map": "/static/js/main.0b595818.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e9317b4.css",
-    "static/js/main.9363719e.js"
+    "static/css/main.428fd50a.css",
+    "static/js/main.0b595818.js"
   ]
 }
