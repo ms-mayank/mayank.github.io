@@ -36,7 +36,7 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/msmayank/">
           <BsLinkedin />
         </a>
-        <a href="https://github.com/msmayank555">
+        <a href="https://github.com/ms-mayank">
           <BsGithub />
         </a>
         <a href="https://www.youtube.com/channel/UCmefvzYXttYVHwyds4SITYw">
