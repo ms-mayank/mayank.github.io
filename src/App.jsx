@@ -9,10 +9,12 @@ import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import Tab from "./components/tab/Tab";
+import InstallPWA from "./components/InstallPWA"
 
 const App = () => {
   return (
     <>
+    <InstallPWA/>
       <Header />
       <Nav />
       <About />
