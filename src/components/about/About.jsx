@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>3+ Years Working</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
@@ -34,7 +34,7 @@ const About = () => {
               <small>40+ Completed</small>
             </article>
           </div>
-          <p>2+ years of relevant experience in Web Development. Delivered 40+ sites to globally distributed clients. Documented various processes & strategies. Trained, guided, managed, and lead a team of young professionals. Process improvement through automation, finding optimal solutions, and better management of Time & Resources.</p>
+          <p>3+ years of relevant experience in Web Development. Delivered 40+ sites to globally distributed clients. Documented various processes & strategies. Trained, guided, managed, and lead a team of young professionals. Process improvement through automation, finding optimal solutions, and better management of Time & Resources.</p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
           </a>
